@@ -1,5 +1,6 @@
 Dynamic Pricing for Urban Parking Lots : 
 Capstone Project – Summer Analytics 2025
+
 By: Minal Prasad
 Hosted by: Consulting & Analytics Club × Pathway
 
